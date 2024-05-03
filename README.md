@@ -5,15 +5,17 @@
 👨🏻‍🎓 Studied [Cyber Security](https://www.netacad.com/)
 
 
+![](https://github-readme-stats.vercel.app/api?username=ManosLyrantzakis&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 # 💻 TECH STACK
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![Javascript](https://img.shields.io/badge/javascript-%23FF0000.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Html](https://img.shields.io/badge/Html-%23FF0000.svg?style=for-the-badge&logo=Html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&logo=CSS&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Javafx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
