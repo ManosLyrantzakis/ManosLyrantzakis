@@ -6,9 +6,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ManosLyrantzakis&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ManosLyrantzakis&theme=gruvbox)
-
-
 # 💻 TECH STACK
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
