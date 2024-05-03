@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ManosLyrantzakis&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ManosLyrantzakis&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=ManosLyrantzakis&theme=gruvbox)
 
 
 # 💻 TECH STACK
